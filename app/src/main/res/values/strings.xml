@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Netflix</string>
+    <string name="logo">Logo</string>
+    <string name="signin">Sign In</string>
+    <string name="email">Email or phone number</string>
+    <string name="pass">Password</string>
+    <string name="editbutton">Edit button</string>
+    <string name="Author">Hamdi JR.</string>
+</resources>
